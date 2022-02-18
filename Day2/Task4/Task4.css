@@ -1,0 +1,38 @@
+.header{
+    
+    background-color: aqua;
+    color: brown;
+    
+}
+.body{
+
+    margin-top: 5px;
+    height: 400px;
+}
+.footer{
+    background-color:azure ;
+    margin-top: 5px;
+    height: 200px;
+
+}
+.teletext{
+    font-size:xx-large;
+    margin-left: 5px;
+    
+}
+.holiday{
+    margin-left: 300px;
+}
+.cheapholiday{
+    margin-left: 60px;
+}
+.allinclusive{
+    margin-left: 60px;
+}
+.lastminute{
+    margin-left: 60px;
+}
+.longhaul{
+    margin-left: 60px;
+}
+
