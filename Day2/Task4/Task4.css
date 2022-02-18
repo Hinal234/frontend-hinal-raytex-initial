@@ -1,16 +1,18 @@
 .header{
     
-    background-color: aqua;
-    color: brown;
+    background-color: blueviolet;
+    color:white;
+    position: fixed;
+    width:1245px;
     
 }
 .body{
 
-    margin-top: 5px;
+    margin-top: 10px;
     height: 400px;
 }
 .footer{
-    background-color:azure ;
+    background-color:blueviolet ;
     margin-top: 5px;
     height: 200px;
 
