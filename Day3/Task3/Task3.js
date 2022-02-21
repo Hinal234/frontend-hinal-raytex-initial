@@ -9,7 +9,7 @@ function fibonacci(){
         console.log(num1);
         nextterm = num1+num2;
         num1 = num2;
-        num2 = nextterm;
+        num2 = nextterm ;
     }
 
 }

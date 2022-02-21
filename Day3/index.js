@@ -50,3 +50,11 @@ function checkEven(){
         console.log("Odd");
     }
 }
+
+var numberarr = [1,2,3,4,4];
+for(let i=0;i<numberarr.length;i++){
+    console.log(numberarr[i]);
+}
+
+var date = new Date();
+console.log(date);
