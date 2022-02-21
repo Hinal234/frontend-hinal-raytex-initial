@@ -10,8 +10,5 @@ function getAge(){
 
     var year = currentDate.getFullYear() - birthdate.getFullYear();
     console.log(year);
-
-
-
         
 }
