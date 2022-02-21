@@ -20,7 +20,7 @@ const student = {name:"James", Age:20};
 
 function displayobject(){
     //document.getElementById("valobject").innerHTML = this.student.name + this.student.Age;
-    return student.name + student.Age;
+    console.log(student.name + student.Age);
 }
 
 

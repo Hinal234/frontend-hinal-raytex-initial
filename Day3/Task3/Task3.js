@@ -1,15 +1,15 @@
 function fibonacci(){
     var num = document.getElementById("number").value;
-    var n1 = 0;
-    var n2 = 1;
-    var n3;
+    var num1 = 0;
+    var num2 = 1;
+    var nextterm;
     console.log("fibonacci Series:");
 
     for(let i=1;i<=num;i++){
-        console.log(n1);
-        n3 = n1+n2;
-        n1 = n2;
-        n2 = n3;
+        console.log(num1);
+        nextterm = num1+num2;
+        num1 = num2;
+        num2 = nextterm;
     }
 
 }
