@@ -34,3 +34,13 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+  .men{
+      padding-top: 100px;
+      float: left;
+  }
+  .imagecontainer{
+    width: 400px;
+    height: 500px;
+    float: left;
+  }

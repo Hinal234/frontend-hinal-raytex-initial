@@ -7,6 +7,6 @@ function contact(){
     console.log(firstname);
     console.log(lastname);
     console.log(email);
-    console.log(subject);
+    console.log(subject)
 
 }
