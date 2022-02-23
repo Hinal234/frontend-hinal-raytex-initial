@@ -36,9 +36,9 @@ ul {
     padding-top: 150px;
     
 }
-img{
-    border-radius: 25%;
-    border: 3px solid black;
+.container1{
+  height: 80px;
+  width: 100%;
 }
 .footer{
     background-color: #333;
@@ -47,4 +47,16 @@ img{
 }
 p{
     color: aliceblue;
+}
+
+#slogan{
+  font-size: 200%;
+  font-family:'Times New Roman', Times, serif;
+  text-shadow: 0 0 4px gray;
+  color: rgb(37, 37, 37);
+  text-align: center;
+  
+}
+.container2{
+  margin-left: 70px;
 }
